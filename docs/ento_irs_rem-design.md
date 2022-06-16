@@ -60,7 +60,7 @@ Users can select between using the “insecticide sprayed”, the “product use
 
 The baseline information of the test is summarized in this section.
 
-The vector species and the control vector species have an option lists of Anopheles spp and Aedes spp vectors to choose from. The complete list is available in [this table](resources/list_mosquitoes_spp.xsls) - countries should adapt and reduce it to include just the species used on site.
+The vector species and the control vector species have an option lists of Anopheles spp and Aedes spp vectors to choose from. The complete list is available in [this table](resources/list_mosquitoes_spp.xlsx) - countries should adapt and reduce it to include just the species used on site.
 
 The recommended mosquito g is 3-5 days but if there are deviations from protocol they should be reported by choosing another option in the Vector age menu.
 
