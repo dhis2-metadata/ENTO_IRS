@@ -22,7 +22,7 @@ Indoor Residual Spraying (IRS) campaigns lose their effect slowly over time beca
 
 ## Data elements
 
-The full list of data elements is available in the [IRS Residual Efficacy Metadata Reference File](resources/metadata.xlsx).
+The full list of data elements is available in the IRS Residual Efficacy Metadata reference.
 
 Some of the DEs in this program could be shared with other E&VC programs. 
 
@@ -139,13 +139,13 @@ The status should be ticked if the event is completed. If the data is entered as
 Some program rules have been applied at data entry in order to calculate the value of some DEs.
 This use of the PRs removes the complexity of maintaining a huge number of program indicators, guides the user through the protocol (e.g. by telling them the needed exposure time) and allows for easier disaggregation of data in visualizations.
 
-The full list of PRs is available in the [Metadata Reference File](resources/metadata.xlsx).
+The full list of PRs is available in the metadata reference file.
 
 ## Analytics
 
 ## Program Indicators
 
-The full list of program indicators is available in the [Metadata Reference File](resources/metadata.xlsx). The list of PIs can be expanded depending on local analytic needs.
+The full list of program indicators is available in the metadata reference file. The list of PIs can be expanded depending on local analytic needs.
 
 ## Visualizations
 
