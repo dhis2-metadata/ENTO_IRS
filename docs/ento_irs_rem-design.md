@@ -1,4 +1,4 @@
-# Indoor Residual Spraying (IRS) { #irs-activity }
+# Indoor Residual Spraying (IRS) { #ento-irs-rem-design }
 
 Indoor Residual Spraying (IRS) is a malaria vector control intervention that consists in the application of a long-lasting, residual insecticide to potential malaria vector resting surfaces (e.g. internal walls, eaves and ceilings of all houses, structures or domestic animal shelters). When anopheline vectors come to rest onto the sprayed surfaces, they absorb a lethal dose of insecticide and die.  Thus the mosquitoes are impeded from biting and transmitting the malaria parasite to people in the vicinity.
 
