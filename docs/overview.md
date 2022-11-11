@@ -2,15 +2,15 @@
 
 ## Design
 
-[Version 1.0.0](#ento-irs-design)
+[Version 1.0.0](#ento-irs-rem-design)
 
 ## Installation
 
-[Installation Guide](#ento-irs-installation)
+[Installation Guide](#ento-irs-rem-installation)
 
 ## Release Note
 
-[Release Note](#ento-irs-release-note)
+[Release Note](#ento-irs-rem-release-note)
 
 ## Metadata Reference
 
