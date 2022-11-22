@@ -1,5 +1,9 @@
 # Insecticide Residual Spraying - Residual Efficacy Monitoring
 
+## Release Note
+
+- [Release Note](#ento-irs-rem-release-note)
+
 ## Design
 
 - [Version 1.0.0](#ento-irs-rem-design)
@@ -7,10 +11,6 @@
 ## Installation
 
 - [Installation Guide](#ento-irs-rem-installation)
-
-## Release Note
-
-- [Release Note](#ento-irs-rem-release-note)
 
 ## Metadata Reference
 
