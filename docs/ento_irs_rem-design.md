@@ -8,6 +8,8 @@ IRS is one of the two malaria vector control interventions recommended by WHO fo
 
 Indoor Residual Spraying (IRS) campaigns lose their effect slowly over time because the  insecticide impregnated on the vector resting surfaces fades away. The efficacy of IRS over time is monitored by measuring the percentage of susceptible mosquitoes that die within 24h of exposure to the sprayed surfaces.  IRS is considered to retain optimal efficacy when at least 80% of the susceptible mosquitoes die. IRS efficacy is measured through a procedure called the WHO cone bioassay, which consists in attaching plastic cones to sprayed surfaces, introducing susceptible mosquitoes into them, leaving mosquitos in for 30 min to allow contact with the sprayed surface (exposure period) and measuring mosquito mortality 24h (or longer for certain insecticides) after the end of those 30min (holding period).
 
+![Example of a WHO cone bioassay](resources/images/ento_irs-reseff_040.png)
+
 | **Section**                                        |**Description**             |
 |------------------------------------------------|-------------|
 | Basic Info                                     | Key identifying info of the WHO cone bioassay being conducted (date and place)                                                                                                                                                          |
@@ -56,7 +58,7 @@ Users can select between using the “insecticide sprayed”, the “product use
 
 ### Test initial conditions
 
-![Initial conditions of the test](resources/images/ento_irs_rem-004-en.png)
+![Initial conditions of the test](resources/images/ento_irs-reseff_041.png)
 
 The baseline information of the test is summarized in this section.
 
@@ -98,9 +100,13 @@ Mortality 24h after exposure
 
 This section reports the number of observed dead mosquitos after 24 hours holding period post-exposure to the sprayed surfaces. The mortalities are automatically calculated in real time via a program rule that assigns a value to the DE.
 
-Should the adjusted mortality fall under the 80% threshold, the system will automatically display a warning message indicating that the event has fallen below optimal efficacy.
+Should the adjusted mortality fall under the 80% threshold, the system will automatically display a warning message indicating that the event has fallen below optimal efficacy. 
 
 ![Threshold mortality](resources/images/ento_irs_rem-014-en.png)
+
+The 80% threshold is also highlighted in what can be considered the key visualization of the module.
+
+![Threshold mortality visualization](resources/images/ento_irsreseff_042.png)
 
 Whenever the adjusted mortality after 24 hrs passes the 80% threshold, the DE below will automatically appear to highlight the event. It is on the user then to investigate in the dashboard whether this was the first time the mortality falls under the threshold in that specific location.
 
