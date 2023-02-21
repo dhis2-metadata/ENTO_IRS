@@ -8,6 +8,8 @@ IRS is one of the two malaria vector control interventions recommended by WHO fo
 
 Indoor Residual Spraying (IRS) campaigns lose their effect slowly over time because the  insecticide impregnated on the vector resting surfaces fades away. The efficacy of IRS over time is monitored by measuring the percentage of susceptible mosquitoes that die within 24h of exposure to the sprayed surfaces.  IRS is considered to retain optimal efficacy when at least 80% of the susceptible mosquitoes die. IRS efficacy is measured through a procedure called the WHO cone bioassay, which consists in attaching plastic cones to sprayed surfaces, introducing susceptible mosquitoes into them, leaving mosquitos in for 30 min to allow contact with the sprayed surface (exposure period) and measuring mosquito mortality 24h (or longer for certain insecticides) after the end of those 30min (holding period).
 
+The linked [webinar](https://youtu.be/9NwZPWGkNsU) supports this design document and further clarifies the configuration and the use cases for this module.
+
 | **Section**                                        |**Description**             |
 |------------------------------------------------|-------------|
 | Basic Info                                     | Key identifying info of the WHO cone bioassay being conducted (date and place)                                                                                                                                                          |
