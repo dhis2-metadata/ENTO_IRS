@@ -108,7 +108,7 @@ Should the adjusted mortality fall under the 80% threshold, the system will auto
 
 The 80% threshold is also highlighted in what can be considered the key visualization of the module.
 
-![Threshold mortality visualization](resources/images/ento_irsreseff_042.png)
+![Threshold mortality visualization](resources/images/ento_irs-reseff_042.png)
 
 Whenever the adjusted mortality after 24 hrs passes the 80% threshold, the DE below will automatically appear to highlight the event. It is on the user then to investigate in the dashboard whether this was the first time the mortality falls under the threshold in that specific location.
 
