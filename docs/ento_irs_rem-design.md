@@ -10,6 +10,8 @@ Indoor Residual Spraying (IRS) campaigns lose their effect slowly over time beca
 
 ![Example of a WHO cone bioassay](resources/images/ento_irs-reseff_040.png)
 
+The linked [webinar](https://youtu.be/9NwZPWGkNsU) supports this design document and further clarifies the configuration and the use cases for this module.
+
 | **Section**                                        |**Description**             |
 |------------------------------------------------|-------------|
 | Basic Info                                     | Key identifying info of the WHO cone bioassay being conducted (date and place)                                                                                                                                                          |
